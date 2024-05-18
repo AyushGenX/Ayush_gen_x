@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AyushGenX/Ayush_gen_x/blob/main/Ayush.png" alt="logo" width="800">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush Chaudhary</h1>
 <h3 align="center">Engineering Student | Data Science Enthusiast | AI & Crypto Aficionado</h3>
 <img align="right" alt="Data Science" width="400" src="https://www.bing.com/th/id/OGC.9c95e07d25fd4d00ac02ba14bd2fc247?pid=1.7&rurl=https%3a%2f%2fglobal-uploads.webflow.com%2f5d41ae7af656706ceb80e40d%2f5d76ee85247be17b353c65be_08-fix.gif&ehk=f0jjb1m4388MI1UvaNeW1N5CR5qH2Eg2A30jPoh5B0c%3d">
